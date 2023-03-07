@@ -1,6 +1,7 @@
 # Mock-Website
 This is a mock website using a combination of PHP,SQL, and HTML/CSS
 
+Fall - 2022
 This was a project in Software Development 2
 In this project a team was put together to create a fake website
   Website Requirments:
